@@ -266,27 +266,6 @@ class _CepState extends State<Cep> {
 
                 SizedBox(height: 25,),
 
-               /* GestureDetector(
-                  onTap: () async {
-                    HapticFeedback.heavyImpact();
-
-                    String siteGoogleMaps= 'https://www.google.com/search?q=${resultado.replaceAll(' ', '+')}+google+maps&oq=brasilia+DF+google+maps&aqs=chrome..69i57.8048j0j4&sourceid=chrome&ie=UTF-8';
-                    //String siteGoogleMaps= 'https://www.google.com/search?q=brasilia+DF+google+maps&oq=brasilia+DF+google+maps&aqs=chrome..69i57.8048j0j4&sourceid=chrome&ie=UTF-8';
-                    //await launchUrl(Uri.parse(siteGoogleMaps));
-                    String siteGoogle = 'https://www.google.com/search?q=google+${resultado}&oq=google+gato&aqs=chrome..69i57j69i64.2700j0j1&sourceid=chrome&ie=UTF-8';
-                    await launchUrl(Uri.parse(siteGoogleMaps));
-                    print(resultado);
-                  },
-                  child: Column(
-                    children: [
-                      Icon( Icons.map_outlined,size: 40,),
-                     // Text('Ver no Google Maps'),
-                      Text(resultado),
-
-                    ],
-                  ),
-                )*/
-
 
               ],
             ),
