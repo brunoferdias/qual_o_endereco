@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:qual_e_o_endereco/insereCEP.dart';
+import 'package:qual_e_o_endereco/HomeCep.dart';
 
 
 
